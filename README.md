@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bálint
+- 👀 I’m interested in legal hacking, making new things,programs...
+- 🌱 I’m currently learning IT in secendary school.
+- 📫 admin@balesz.com
