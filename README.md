@@ -11,3 +11,4 @@
 - 500mh/s Ethereum mining :heavy_check_mark:
 - Some longfi hotspot in my country :o: :soon:
 - 
+:small_red_triangle_down:
