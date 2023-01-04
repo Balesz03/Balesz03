@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bálint
-- WEB3 developer & mining hardver optimizer
+- WEB3 & node DEV
 - Smart contract BO$$
 - 👀 I’m interested in legal hacking, networking, invent new things
 - 🌱 I’m currently learning IT in secendary school.
