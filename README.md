@@ -1,10 +1,22 @@
 - 👋 Hi, I’m Bálint
-- Backend developer 
+- WEB3 developer & mining hardver optimizer
+- Smart contract BO$$
 - 👀 I’m interested in legal hacking, networking, invent new things
 - 🌱 I’m currently learning IT in secendary school.
 - 📫 admin@balesz.com
 
+$$$ 2023 GOLAS $$$
 
+
+
+
+
+
+
+
+
+
+SEASSON ENDED
 - :ocean:2021 goals:zap:
 :small_red_triangle_down:
 - 500TB home cloud network :heavy_check_mark:
